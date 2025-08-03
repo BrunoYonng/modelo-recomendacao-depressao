@@ -7,7 +7,6 @@ Este projeto desenvolve um modelo de Machine Learning para prever sinais de depr
 
 - Construir modelos de aprendizado supervisionado (Logistic Regression e Random Forest)
 - Avaliar o desempenho utilizando métricas como acurácia, precisão e recall
-- Interpretar os modelos com valores de SHAP (SHapley Additive exPlanations)
 - Explorar insights dos dados para entender os principais fatores de risco
 
 ## 📊 Resultados
@@ -73,7 +72,7 @@ Este projeto desenvolve um modelo de Machine Learning para prever sinais de depr
 
 ## 👤 Autor
 
-**[Bruno Yonng Leopoldo]**  
+**Bruno Yonng Leopoldo**  
 Junior Machine Learning Engineer 
 🔗 [LinkedIn](www.linkedin.com/in/brunoyonngleopoldo) 
 • ✉️ byonng1994@gmail.com
